@@ -24,6 +24,8 @@ Before starting, make sure you have the following installed:
 git clone https://github.com/username/repository-name.git
 cd repository-name
 
+---
+
 ### 2. Install Dependencies
 ```bash
 composer install
