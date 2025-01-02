@@ -13,7 +13,6 @@ Before starting, make sure you have the following installed:
 - **PHP** (version 8.x or higher)
 - **Composer** (latest version)
 - **MySQL** (or any supported database)
-- **Node.js** and **npm** (for frontend assets)
 - **Git** (optional but recommended)
 
 ---
