@@ -84,10 +84,10 @@
         <div class="row justify-content-between">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>PENGADUAN MASYARAKAT</h3>
+            <h3>Pengaduan Masyarakat</h3>
             <p>
-              Bayu Prayoga<br>
-              SMK Informatika Utama<br>
+              Dinas Sosial<br>
+              My Web<br>
 
             </p>
           </div>
@@ -105,8 +105,8 @@
             <h4>Kontak</h4>
             <ul>
               <p>
-                <strong>Phone:</strong> +62 85526289490<br>
-                <strong>Email:</strong> prayogabayu062@gmail.com<br>
+                <strong>Phone:</strong> +62 8552628942<br>
+                <strong>Email:</strong> dinassosialsemarang@gmail.com<br>
               </p>
             </ul>
           </div>
@@ -119,13 +119,13 @@
 
       <div class="me-md-auto my-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span><a href="" target="_blank">Bayu Prayoga</a></span></strong>. SMK Informatika Utama
+          &copy; Copyright <strong><span><a href="" target="_blank"></a>Dinas Sosial</span></strong>. My Web
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="https://github.com/BayuPrayoga62" class="github"><i class="bx bxl-github"></i></a>
-        <a href="https://www.instagram.com/ubayprayoga_/" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/bayu-prayoga-b000a121a/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://github.com/" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://www.instagram.com/" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
   </footer><!-- End Footer -->

@@ -48,10 +48,10 @@
               <div class="dropdown-header noti-title">
                 <h6 class="text-overflow m-0">Welcome!</h6>
               </div>
-              <a href="/admin/dashboard" class="dropdown-item">
+             <!--  <a href="/admin/dashboard" class="dropdown-item">
                 <i class="ni ni-single-02"></i>
                 <span>My profile</span>
-              </a>
+              </a> -->
                 <form action="{{ route('admin.logout') }}">
                   @csrf
                   <button type="submit" class="dropdown-item" title="Logout" data-toggle="tooltip">

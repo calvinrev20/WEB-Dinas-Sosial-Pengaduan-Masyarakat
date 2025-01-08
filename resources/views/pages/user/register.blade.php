@@ -345,7 +345,7 @@
     <div class="container">
 
           <div class="copyright text-center text-muted">
-            &copy; Copyright <strong><span><a href="" target="_blank">Bayu Prayoga</a></span></strong>.SMK Informatika Utama
+            &copy; Copyright <strong><span><a href="" target="_blank">Dinas Sosial</a></span></strong>. Kota Semarang
           </div>
     </div>
   </footer>
